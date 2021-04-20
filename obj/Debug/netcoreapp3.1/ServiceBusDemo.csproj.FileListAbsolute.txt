@@ -1,0 +1,49 @@
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.csprojAssemblyReference.cache
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.AssemblyInfoInputs.cache
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.AssemblyInfo.cs
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.csproj.CoreCompileInputs.cache
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\bin\Debug\netcoreapp3.1\ServiceBusDemo.exe
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\bin\Debug\netcoreapp3.1\ServiceBusDemo.deps.json
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\bin\Debug\netcoreapp3.1\ServiceBusDemo.runtimeconfig.json
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\bin\Debug\netcoreapp3.1\ServiceBusDemo.runtimeconfig.dev.json
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\bin\Debug\netcoreapp3.1\ServiceBusDemo.dll
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\bin\Debug\netcoreapp3.1\ServiceBusDemo.pdb
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.csproj.CopyComplete
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.dll
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.pdb
+C:\Users\memil\OneDrive - Ivri\MemiWebSite\Courses\Architecting Application for Microsoft Azure - The Complete Guide\Resources\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.genruntimeconfig.cache
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\ServiceBusDemo.exe
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\ServiceBusDemo.deps.json
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\ServiceBusDemo.runtimeconfig.json
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\ServiceBusDemo.runtimeconfig.dev.json
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\ServiceBusDemo.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\ServiceBusDemo.pdb
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\apps\azure\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.csprojAssemblyReference.cache
+C:\apps\azure\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.AssemblyInfoInputs.cache
+C:\apps\azure\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.AssemblyInfo.cs
+C:\apps\azure\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.csproj.CoreCompileInputs.cache
+C:\apps\azure\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.csproj.CopyComplete
+C:\apps\azure\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.dll
+C:\apps\azure\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.pdb
+C:\apps\azure\ServiceBusDemo\obj\Debug\netcoreapp3.1\ServiceBusDemo.genruntimeconfig.cache
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\apps\azure\ServiceBusDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
